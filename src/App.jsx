@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { NotFound } from './components/NotFound/NotFound';
-import { Home } from './components/Home/Home';
+import { NotFound } from './pages/NotFound/NotFound';
+import { Home } from './pages/Home/Home';
 
 
 export const App = () => {

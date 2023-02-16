@@ -12,6 +12,7 @@ export const Home = () => {
         configuré, enlever la ligne de commentaire sur le fichier Home et/ou
         l'importer dans vos autres composants
       </p>
+
     </div>
   );
 };
