@@ -1,7 +1,7 @@
 # BP-TAILWIND
 Boiler_Plate_Tailwind
 
-Avec routing, Cookie et forcément Tailwind de pré-configurer.
+Avec Routing, Cookies et forcément Tailwind de préconfiguré
 
 https://tailwindcss.com/docs/configuration 
 
